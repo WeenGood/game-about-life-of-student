@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 2c4088b1d3d2a56419a5cc1cb0e562d4
+timeCreated: 1533979779
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bed
+    100002: books
+    100004: chair
+    100006: chair2
+    100008: chiken
+    100010: cupboard
+    100012: door
+    100014: dumbbell
+    100016: elevator
+    100018: floor dumbbell
+    100020: floor1
+    100022: floor1UP
+    100024: floor1Walls
+    100026: floor2
+    100028: floor2UP
+    100030: floor2Walls
+    100032: //RootNode
+    100034: picture
+    100036: shop
+    100038: stairs
+    100040: stove
+    100042: Sun
+    100044: table
+    100046: table.001
+    400000: bed
+    400002: books
+    400004: chair
+    400006: chair2
+    400008: chiken
+    400010: cupboard
+    400012: door
+    400014: dumbbell
+    400016: elevator
+    400018: floor dumbbell
+    400020: floor1
+    400022: floor1UP
+    400024: floor1Walls
+    400026: floor2
+    400028: floor2UP
+    400030: floor2Walls
+    400032: //RootNode
+    400034: picture
+    400036: shop
+    400038: stairs
+    400040: stove
+    400042: Sun
+    400044: table
+    400046: table.001
+    2300000: bed
+    2300002: books
+    2300004: chair
+    2300006: chair2
+    2300008: chiken
+    2300010: cupboard
+    2300012: door
+    2300014: dumbbell
+    2300016: elevator
+    2300018: floor dumbbell
+    2300020: floor1
+    2300022: floor1UP
+    2300024: floor1Walls
+    2300026: floor2
+    2300028: floor2UP
+    2300030: floor2Walls
+    2300032: picture
+    2300034: shop
+    2300036: stairs
+    2300038: stove
+    2300040: table
+    2300042: table.001
+    3300000: bed
+    3300002: books
+    3300004: chair
+    3300006: chair2
+    3300008: chiken
+    3300010: cupboard
+    3300012: door
+    3300014: dumbbell
+    3300016: elevator
+    3300018: floor dumbbell
+    3300020: floor1
+    3300022: floor1UP
+    3300024: floor1Walls
+    3300026: floor2
+    3300028: floor2UP
+    3300030: floor2Walls
+    3300032: picture
+    3300034: shop
+    3300036: stairs
+    3300038: stove
+    3300040: table
+    3300042: table.001
+    4300000: floor1UP
+    4300002: floor2UP
+    4300004: picture
+    4300006: table
+    4300008: chair2
+    4300010: shop
+    4300012: floor dumbbell
+    4300014: chiken
+    4300016: stairs
+    4300018: elevator
+    4300020: floor1
+    4300022: floor2
+    4300024: dumbbell
+    4300026: cupboard
+    4300028: bed
+    4300030: chair
+    4300032: table.001
+    4300034: door
+    4300036: books
+    4300038: floor1Walls
+    4300040: floor2Walls
+    4300042: stove
+    10800000: Sun
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: c322ad9de6cad674d9f510bce55ed3d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: c7a49fa66ce3c444dbfdf9042e8da1a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: b39134f70b74a3c48a774b80874d4717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 129adefd74d77e9418bff4aabe022f68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor2
+    second: {fileID: 2100000, guid: df5c24dc2fa6f3a4aa25d069f9e1f167, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
