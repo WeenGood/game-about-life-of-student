@@ -8,8 +8,10 @@ public class elevator : MonoBehaviour {
     GameObject button;
     GameObject buttonUP;
     GameObject buttonDOWN;
-    bool flag = true;
+    bool flag = true, upDown = false;
     public Animation anim;
+    private float timeout = 0;
+    public float time = 2.5f;
 
     // Use this for initialization
     void Start () {
@@ -20,17 +22,21 @@ public class elevator : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetKeyDown(KeyCode.E)&&flag)//клик левой мышью
+        timeout += Time.deltaTime;
+        if (Input.GetKeyDown(KeyCode.E)&&flag &&(timeout > time))//клик левой мышью
         {
+            timeout = 0;
                 button = GetObjectFromMouseRaycast();//мы получили объект, в который попал луч из камеры через курсор    
-                if (button == buttonUP)
+                if (button == buttonUP && !upDown)
                 {
                     anim.CrossFade("elevatorUP");
+                    upDown = true;
                 }
                 else
-                    if(button == buttonDOWN)
+                    if(button == buttonDOWN && upDown)
                     {
                         anim.CrossFade("elevatorDOWN");
+                        upDown = false;
                     }
         }
     }
