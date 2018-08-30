@@ -95,7 +95,7 @@ MonoBehaviour:
   m_MinSize: {x: 743, y: 492}
   m_MaxSize: {x: 24008, y: 14042}
   vertical: 0
-  controlID: 162
+  controlID: 9
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -114,8 +114,8 @@ MonoBehaviour:
     y: 0
     width: 293
     height: 957
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -281,8 +281,8 @@ MonoBehaviour:
     y: 0
     width: 1627
     height: 686
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
   controlID: 11
 --- !u!114 &13
@@ -404,18 +404,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Materials
+    - Assets/Export
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Export
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Ween Good\OneDrive\projects\game\unity\game-about-life-of-student\map
   m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 34270000
-    m_LastClickedID: 10036
+    m_SelectedIDs: 76290000
+    m_LastClickedID: 10614
     m_ExpandedIDs: 000000002c27000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -471,8 +471,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: 34280000c05b0000f06500009c6f00005c71000080930000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: 34280000c05b0000f06500009c6f00005c71000080930000ec370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -563,18 +563,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Export
+    - Assets/textures
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Export
+  - Assets/textures
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Ween Good\OneDrive\projects\game\unity\game-about-life-of-student\map
   m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 76290000
-    m_LastClickedID: 10614
+    m_SelectedIDs: 52270000
+    m_LastClickedID: 10066
     m_ExpandedIDs: 000000002c27000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -655,7 +655,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 27}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 115
 --- !u!114 &19
@@ -718,10 +718,10 @@ MonoBehaviour:
     width: 206
     height: 665
   m_TreeViewState:
-    scrollPos: {x: 0, y: 808}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 7029feffa6dbfeffcee4ffffa6fbffff00000000122b0000982b0000b02b0000ba2b0000602c0000
+    m_ExpandedIDs: a6fbffff00000000e6290000142a0000602a0000fa2a0000422b0000bc2b0000d02b0000f82b0000642c0000802c0000e42c0000582d0000f82d00007a2e0000962e00005c2f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -771,14 +771,14 @@ MonoBehaviour:
     width: 1415
     height: 665
   m_SceneLighting: 1
-  lastFramingTime: 874.0077513782553
+  lastFramingTime: 22463.26753906253
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.71771, y: 81.31462, z: 30.170362}
+    m_Target: {x: 33.90071, y: 36.134747, z: -22.749203}
     speed: 2
-    m_Value: {x: -3.71771, y: 81.31462, z: 30.170362}
+    m_Value: {x: 33.90071, y: 36.134747, z: -22.749203}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -801,13 +801,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.1927293, y: -0.6363177, z: 0.16852647, w: 0.72770476}
+    m_Target: {x: -0.1070471, y: -0.883609, z: 0.24683051, w: -0.3832112}
     speed: 2
-    m_Value: {x: 0.1927293, y: -0.6363177, z: 0.16852647, w: 0.72770476}
+    m_Value: {x: -0.1070471, y: -0.883609, z: 0.24683051, w: -0.3832112}
   m_Size:
-    m_Target: 22
+    m_Target: 96.907104
     speed: 2
-    m_Value: 22
+    m_Value: 96.907104
   m_Ortho:
     m_Target: 0
     speed: 2
