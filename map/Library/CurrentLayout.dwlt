@@ -39,15 +39,15 @@ MonoBehaviour:
     x: 827
     y: 0
     width: 800
-    height: 271
-  m_MinSize: {x: 234, y: 271}
-  m_MaxSize: {x: 10004, y: 10021}
-  m_ActualView: {fileID: 18}
+    height: 319
+  m_MinSize: {x: 104, y: 121}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 18}
   - {fileID: 15}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -65,13 +65,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 686
+    y: 638
     width: 1627
-    height: 271
-  m_MinSize: {x: 466, y: 271}
-  m_MaxSize: {x: 20006, y: 10021}
+    height: 319
+  m_MinSize: {x: 336, y: 271}
+  m_MaxSize: {x: 14006, y: 10021}
   vertical: 0
-  controlID: 128
+  controlID: 126
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -92,8 +92,8 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 957
-  m_MinSize: {x: 741, y: 492}
-  m_MaxSize: {x: 24006, y: 14042}
+  m_MinSize: {x: 681, y: 492}
+  m_MaxSize: {x: 18006, y: 14042}
   vertical: 0
   controlID: 9
 --- !u!114 &5
@@ -138,9 +138,9 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 208
-    height: 686
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+    height: 638
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -164,7 +164,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 827
-    height: 271
+    height: 319
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 16}
@@ -257,8 +257,8 @@ MonoBehaviour:
     y: 0
     width: 1627
     height: 957
-  m_MinSize: {x: 466, y: 492}
-  m_MaxSize: {x: 20006, y: 14042}
+  m_MinSize: {x: 406, y: 492}
+  m_MaxSize: {x: 14006, y: 14042}
   vertical: 1
   controlID: 10
 --- !u!114 &12
@@ -280,9 +280,9 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1627
-    height: 686
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+    height: 638
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
   controlID: 11
 --- !u!114 &13
@@ -302,7 +302,7 @@ MonoBehaviour:
     x: 208
     y: 0
     width: 1419
-    height: 686
+    height: 638
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 21}
@@ -361,9 +361,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 829
-    y: 778
+    y: 730
     width: 796
-    height: 250
+    height: 298
   m_AnimEditor: {fileID: 0}
   m_Locked: 0
 --- !u!114 &16
@@ -389,9 +389,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 778
+    y: 730
     width: 825
-    height: 250
+    height: 298
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -404,19 +404,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/items
+    - Assets/scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/items
+  - Assets/scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Ween Good\OneDrive\projects\game\unity\game-about-life-of-student\map
   m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e8270000
-    m_LastClickedID: 10216
-    m_ExpandedIDs: 00000000402700003c2a000000ca9a3bffffff7f
+    m_SelectedIDs: dc280000
+    m_LastClickedID: 10460
+    m_ExpandedIDs: 0000000054270000822a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -444,7 +444,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000402700003c2a0000
+    m_ExpandedIDs: 0000000054270000822a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -472,7 +472,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: 34280000c05b0000f06500009c6f00005c71000080930000ec3700006c290000b22700003a2900006e290000
+    m_ExpandedInstanceIDs: 34280000c05b0000f06500009c6f00005c71000080930000ec3700006c290000b22700003a2900006e2900009c28000094350000222a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -496,7 +496,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 241}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 200
 --- !u!114 &17
@@ -548,9 +548,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 829
-    y: 778
+    y: 730
     width: 796
-    height: 250
+    height: 298
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -563,19 +563,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Export
+    - Assets/items
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Export
+  - Assets/items
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Ween Good\OneDrive\projects\game\unity\game-about-life-of-student\map
   m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3c2a0000
-    m_LastClickedID: 10812
-    m_ExpandedIDs: 00000000402700003c2a000000ca9a3bffffff7f
+    m_SelectedIDs: 02280000
+    m_LastClickedID: 10242
+    m_ExpandedIDs: 0000000054270000822a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -603,7 +603,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000402700003c2a0000
+    m_ExpandedIDs: 0000000054270000822a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -628,8 +628,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: c66bfdff
+    m_LastClickedInstanceID: -169018
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000602c0000d84700001a6600006040000016490000
     m_RenameOverlay:
@@ -655,7 +655,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 556}
+    m_ScrollPosition: {x: 0, y: 225}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 115
 --- !u!114 &19
@@ -716,26 +716,26 @@ MonoBehaviour:
     x: 0
     y: 92
     width: 206
-    height: 665
+    height: 617
   m_TreeViewState:
-    scrollPos: {x: 0, y: 72}
-    m_SelectedIDs: ce2c0000
-    m_LastClickedID: 11470
-    m_ExpandedIDs: 04f9ffffc2faffff00000000bc2a0000d02a0000dc2a00000e2b0000822b0000862b0000ae2b0000be2b0000242c0000362c0000402c0000942c00002e2d00003a2d00003e2d0000622d0000822d00008c2d0000922d0000a82d0000122e00001e2e00003a2e0000402e0000482e00004c2e0000842e0000a22e0000ac2e0000d62e0000ee2e0000f22e0000642f00006c2f00008c2f0000aa2f0000fa2f000032300000363000006830000076300000983000009e300000c6300000e23000000a3100000e3100001e3100002a3100003c310000683100008c3100009a310000b2310000c0310000c8310000fe3100000a320000
+    scrollPos: {x: 0, y: 1016}
+    m_SelectedIDs: 081cfbff
+    m_LastClickedID: -320504
+    m_ExpandedIDs: eef9ffff00000000ea2c0000902d0000b82d0000e22d00008c30000070320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: showerDoor (1)
+      m_OriginalName: showerDoor (1)
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -169018
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 6}
     m_SearchString: 
@@ -769,16 +769,16 @@ MonoBehaviour:
     x: 210
     y: 92
     width: 1415
-    height: 665
+    height: 617
   m_SceneLighting: 1
-  lastFramingTime: 5841.264471516864
+  lastFramingTime: 1063.7033614427928
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -18.946905, y: 80.594734, z: 7.3330154}
+    m_Target: {x: -16.60782, y: 80.349594, z: 8.642985}
     speed: 2
-    m_Value: {x: -18.946905, y: 80.594734, z: 7.3330154}
+    m_Value: {x: -16.60782, y: 80.349594, z: 8.642985}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -801,13 +801,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.02135189, y: 0.8985805, z: -0.044002876, w: 0.4360745}
+    m_Target: {x: 0.041121576, y: 0.9584174, z: -0.21425964, w: 0.18395111}
     speed: 2
-    m_Value: {x: 0.02135189, y: 0.8985805, z: -0.044002876, w: 0.4360745}
+    m_Value: {x: 0.041121576, y: 0.9584174, z: -0.21425964, w: 0.18395111}
   m_Size:
-    m_Target: 3.1752234
+    m_Target: 3.5768416
     speed: 2
-    m_Value: 3.1752234
+    m_Value: 3.5768416
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -844,7 +844,7 @@ MonoBehaviour:
     x: 210
     y: 92
     width: 1415
-    height: 665
+    height: 617
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
@@ -855,8 +855,8 @@ MonoBehaviour:
     m_VRangeLocked: 0
     m_HBaseRangeMin: -707.5
     m_HBaseRangeMax: 707.5
-    m_VBaseRangeMin: -324
-    m_VBaseRangeMax: 324
+    m_VBaseRangeMin: -300
+    m_VBaseRangeMax: 300
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -874,9 +874,9 @@ MonoBehaviour:
       x: 0
       y: 17
       width: 1415
-      height: 648
+      height: 600
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 707.5, y: 324}
+    m_Translation: {x: 707.5, y: 300}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -884,14 +884,14 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -707.5
-      y: -324
+      y: -300
       width: 1415
-      height: 648
+      height: 600
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 1415, y: 665}
+  m_LastWindowPixelSize: {x: 1415, y: 617}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
